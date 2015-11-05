@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\KillProcessUplus.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\KillProcessUplus.exe
+c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\KillProcessUplus.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\KillProcessUplus.exe
+c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\KillProcessUplus.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\KillProcessUplus.csprojResolveAssemblyReference.cache
